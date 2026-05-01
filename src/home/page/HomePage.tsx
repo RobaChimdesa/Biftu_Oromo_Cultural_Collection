@@ -1,11 +1,13 @@
 import Header from "../../module/common/Header";
-
-const HomePage = () =>{
- return(
+import HomePageComp from "../../components/HomePageComp";
+import TestGallery from "../../test";
+const HomePage = () => {
+  return (
     <div className="">
-        <Header />
+      <Header />
+      {/* <TestGallery /> */}
     </div>
- )
-}
+  );
+};
 
 export default HomePage;
