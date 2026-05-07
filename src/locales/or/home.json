@@ -1,0 +1,22 @@
+{
+  "slide1": {
+    "title": "Faaya Aadaa Oromoo",
+    "description": "Uffata aadaa Oromoo miidhagina qabu kan dhaala fi eenyummaatti hundaa'e argadhu."
+  },
+  "slide2": {
+    "title": "Uffata Aadaa Dhiiraa",
+    "description": "Uffata aadaa cimaa, bareedaa kan fedhii ammayyaa fi aadaa ti."
+  },
+  "slide3": {
+    "title": "Uffata Aadaa Da'Immanii",
+    "description": "Uffata aadaa daa'immanii halluu qabu fi jabaataa."
+  },
+  "buttons": {
+    "shopNow": "Amma Bitadhu",
+    "prev": "Kan Duraa",
+    "next": "Kan Ittaanu"
+  },
+  "accessibility": {
+    "slide": "Silaayidii"
+  }
+}

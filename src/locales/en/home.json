@@ -1,0 +1,22 @@
+{
+  "slide1": {
+    "title": "Oromo Cultural Elegance",
+    "description": "Discover beautifully designed Oromo traditional dresses rooted in heritage and identity."
+  },
+  "slide2": {
+    "title": "Men Traditional Wear",
+    "description": "Strong, elegant cultural outfits for modern and traditional occasions."
+  },
+  "slide3": {
+    "title": "Kids Cultural Collection",
+    "description": "Colorful and comfortable traditional clothing for children."
+  },
+  "buttons": {
+    "shopNow": "Shop Now",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "accessibility": {
+    "slide": "Slide"
+  }
+}
