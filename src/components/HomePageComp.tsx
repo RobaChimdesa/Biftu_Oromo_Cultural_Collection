@@ -17,7 +17,6 @@ const HomePageComp = () => {
       titleKey: "slide2.title",
       desckey: "slide2.description",
       image:
-        // "https://res.cloudinary.com/dpc9pnok7/image/upload/v1777637695/Screenshot_2026-05-01_150710_e8zmja.png",
         "https://res.cloudinary.com/dpc9pnok7/image/upload/v1777637975/Screenshot_2026-05-01_151737_xpybdd.png",
     },
     {
@@ -67,8 +66,8 @@ const HomePageComp = () => {
             {t(current.desckey)}
           </p>
 
-          <button className="mt-4 bg-orange-500 hover:bg-orange-600 transition px-6 py-2 rounded-full font-semibold">
-            <span className="cursor-pointer"> {t("buttons.shopNow")}</span>
+          <button className="mt-44 bg-orange-500 hover:bg-orange-600 transition px-6 py-2 rounded-full font-semibold">
+            <span className="cursor-pointer "> {t("buttons.shopNow")}</span>
           </button>
         </div>
       </div>

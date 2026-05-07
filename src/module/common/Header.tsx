@@ -43,7 +43,7 @@ const Header = () => {
       {/* Red Progress Bar - ABOVE the header */}
       <div className="fixed top-0 left-0 w-full h-1 bg-gray-200 z-60">
         <div
-          className="h-full bg-red-400 transition-all duration-300 ease-in-out"
+          className="h-full bg-orange-500 transition-all duration-300 ease-in-out"
           style={{ width: `${scrollProgress}%` }}
         />
       </div>
