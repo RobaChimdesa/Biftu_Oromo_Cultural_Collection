@@ -1,0 +1,31 @@
+{
+  "section": {
+    "title": "New Collection"
+  },
+
+  "product": {
+    "new": "NEW",
+    "quickView": "Quick View",
+    "browseMore": "Browse More"
+  },
+
+  "products": {
+    "womenShoa": "Women Shoa Cultural Cloth",
+    "womenArsi": "Women Arsi Cultural Cloth",
+    "womenBale": "Women Bale Cultural Cloth",
+    "womenHarar": "Women Harar Cultural Cloth",
+    "womenWelaga": "Women Welaga Cultural Cloth",
+    "womenBorena": "Women Borena Cultural Cloth",
+    "womenWedding": "Women Wedding Cultural Cloth",
+
+    "menShoa": "Shoa Men Cultural Cloth",
+    "menArsi": "Arsi Men Cultural Cloth",
+    "menBale": "Bale Men Cultural Cloth",
+    "menHarar": "Harar Men Cultural Cloth",
+    "menWelaga": "Welaga Men Cultural Cloth",
+    "menGuji": "Guji Men Cultural Cloth",
+    "menWedding": "Men Wedding Cultural Cloth",
+
+    "childCloth": "Child Cultural Cloth"
+  }
+}

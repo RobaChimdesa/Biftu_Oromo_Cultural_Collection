@@ -1,0 +1,31 @@
+{
+  "section": {
+    "title": "አዲስ ስብስብ"
+  },
+
+  "product": {
+    "new": "አዲስ",
+    "quickView": "ፈጣን እይታ",
+    "browseMore": "ተጨማሪ ይመልከቱ"
+  },
+
+  "products": {
+    "womenShoa": "የሴቶች የሸዋ ባህላዊ ልብስ",
+    "womenArsi": "የሴቶች የአርሲ ባህላዊ ልብስ",
+    "womenBale": "የሴቶች የባሌ ባህላዊ ልብስ",
+    "womenHarar": "የሴቶች የሐረር ባህላዊ ልብስ",
+    "womenWelaga": "የሴቶች የወለጋ ባህላዊ ልብስ",
+    "womenBorena": "የሴቶች የቦረና ባህላዊ ልብስ",
+    "womenWedding": "የሴቶች የሠርግ ባህላዊ ልብስ",
+
+    "menShoa": "የወንዶች የሸዋ ባህላዊ ልብስ",
+    "menArsi": "የወንዶች የአርሲ ባህላዊ ልብስ",
+    "menBale": "የወንዶች የባሌ ባህላዊ ልብስ",
+    "menHarar": "የወንዶች የሐረር ባህላዊ ልብስ",
+    "menWelaga": "የወንዶች የወለጋ ባህላዊ ልብስ",
+    "menGuji": "የወንዶች የጉጂ ባህላዊ ልብስ",
+    "menWedding": "የወንዶች የሠርግ ባህላዊ ልብስ",
+
+    "childCloth": "የህፃናት ባህላዊ ልብስ"
+  }
+}

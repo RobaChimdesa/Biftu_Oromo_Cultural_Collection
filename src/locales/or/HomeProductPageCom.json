@@ -1,0 +1,31 @@
+{
+  "section": {
+    "title": "Kuusaa Haaraa"
+  },
+
+  "product": {
+    "new": "HAARAA",
+    "quickView": "Saffisaan Ilaali",
+    "browseMore": "Dabalataan Ilaali"
+  },
+
+  "products": {
+    "womenShoa": "Uffata Aadaa Dubartootaa Shawaa",
+    "womenArsi": "Uffata Aadaa Dubartootaa Arsii",
+    "womenBale": "Uffata Aadaa Dubartootaa Baalee",
+    "womenHarar": "Uffata Aadaa Dubartootaa Hararii",
+    "womenWelaga": "Uffata Aadaa Dubartootaa Wallaggaa",
+    "womenBorena": "Uffata Aadaa Dubartootaa Booranaa",
+    "womenWedding": "Uffata Aadaa Cidhaa Dubartootaa",
+
+    "menShoa": "Uffata Aadaa Dhiiraa Shawaa",
+    "menArsi": "Uffata Aadaa Dhiiraa Arsii",
+    "menBale": "Uffata Aadaa Dhiiraa Baalee",
+    "menHarar": "Uffata Aadaa Dhiiraa Hararii",
+    "menWelaga": "Uffata Aadaa Dhiiraa Wallaggaa",
+    "menGuji": "Uffata Aadaa Dhiiraa Gujii",
+    "menWedding": "Uffata Aadaa Cidhaa Dhiiraa",
+
+    "childCloth": "Uffata Aadaa Daa’immanii"
+  }
+}

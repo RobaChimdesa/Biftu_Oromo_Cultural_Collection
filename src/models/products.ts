@@ -1,6 +1,7 @@
 export const clothes = [
     {
         id:1,
+        translationKey: "products.womenShoa",
         name: "women Shoa cultural cloth",
         category:"women",
         price: 5000,
@@ -9,6 +10,7 @@ export const clothes = [
     },
     {
         id:2,
+        translationKey: "products.womenArsi",
         name: "women Arsi cultural cloth",
         category:"women",
         price: 9000,
@@ -47,7 +49,7 @@ export const clothes = [
     {
         id:7,
         name: " women Wolo Kamise cultural cloth",
-        category: " women",     
+        category: "women",     
         price: 11000,
         image:"https://res.cloudinary.com/dpc9pnok7/image/upload/v1777637599/Screenshot_2026-05-01_151150_aiixov.png"
 
@@ -69,7 +71,8 @@ export const clothes = [
     {
         id:10,
         name: " wedding cultural cloth",
-        category: " women",
+        category: "women",
+
         price: 9000,
         image:"https://res.cloudinary.com/dpc9pnok7/image/upload/v1777637654/Screenshot_2026-05-01_150559_ox21tj.png"
     },
