@@ -84,23 +84,47 @@ import enHomeProductPageComp from "../locales/en/HomeProductPageCom.json";
 import amHomeProductPageComp from "../locales/am/HomeProductPageCom.json";
 import omHomeProductPageComp from "../locales/or/HomeProductPageCom.json";
 
+// ABOUT PAGE
+import enAbout from "../locales/en/about.json";
+import amAbout from "../locales/am/about.json";
+import omAbout from "../locales/or/about.json";
+
+// FEATURES PAGE
+import enFeatures from "../locales/en/features.json";
+import amFeatures from "../locales/am/features.json";
+import omFeatures from "../locales/or/features.json";
+
+// FOOTER PAGE
+import enFooter from "../locales/en/footer.json";
+import amFooter from "../locales/am/footer.json";
+import omFooter from "../locales/or/footer.json";
+
 const resources = {
   en: {
     header: enHeader,
     home: enHome,
     HomeProductPageCom: enHomeProductPageComp,
+    features: enFeatures,
+    footer: enFooter,
+    about: enAbout,
   },
 
   am: {
     header: amHeader,
     home: amHome,
     HomeProductPageCom: amHomeProductPageComp,
+    features: amFeatures,
+    footer: amFooter,
+    about: amAbout,
   },
 
   om: {
     header: omHeader,
     home: omHome,
     HomeProductPageCom: omHomeProductPageComp,
+    features: omFeatures,
+    footer: omFooter,
+    about: omAbout,
   },
 };
 
@@ -128,7 +152,7 @@ i18n
 
     defaultNS: "header",
 
-    ns: ["header", "home", "HomeProductPageCom"],
+    ns: [ "header", "home", "HomeProductPageCom", "features", "footer", "about"],
   });
 
 export default i18n;

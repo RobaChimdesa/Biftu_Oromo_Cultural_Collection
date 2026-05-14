@@ -3,12 +3,16 @@ import { useEffect, useState } from "react";
 import Logo from "./Logo";
 import Cart from "../../components/ui/Cart";
 import { FiMenu, FiX } from "react-icons/fi";
+import { useNavigate } from "react-router-dom";
+import { App_Routes } from "../../utils/app-routes";
 
 const Header = () => {
+
+  const navigate = useNavigate();
   const { t, i18n } = useTranslation("header");
   const [isOpen, setIsOpen] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-
+  
   const [scrollProgress, setScrollProgress] = useState(0);
 
   const changeLanguage = (lang: string) => {
@@ -54,25 +58,25 @@ const Header = () => {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center gap-6 ">
-            <button>
+            <button onClick={() => navigate(App_Routes.HOME)}>
               <span className="hover:text-orange-500 transition cursor-pointer">
                 {t("home")}
               </span>
             </button>
 
-            <button>
+            <button onClick={() => navigate(App_Routes.PRODUCTS)}>
               <span className="hover:text-orange-500 transition cursor-pointer">
                 {t("products")}
               </span>
             </button>
 
-            <button>
+            <button onClick={() => navigate(App_Routes.ABOUT)}>
               <span className="hover:text-orange-500 transition cursor-pointer">
                 {t("aboutUs")}
               </span>
             </button>
 
-            <button>
+            <button onClick={() => navigate(App_Routes.CONTACT)}>
               <span className="hover:text-orange-500 transition cursor-pointer">
                 {t("contact")}
               </span>
@@ -105,22 +109,22 @@ const Header = () => {
         {/* Mobile Menu */}
         {isOpen && (
           <div className="flex flex-col  gap-4 px-4 pb-4 md:hidden items-center ">
-            <button>
+            <button onClick={() => navigate(App_Routes.HOME)}>
               <span className="hover:text-orange-500 transition cursor-pointer">
                 {t("home")}
               </span>
             </button>
-            <button>
+            <button onClick={() => navigate(App_Routes.PRODUCTS)}>
               <span className="hover:text-orange-500 transition cursor-pointer">
                 {t("products")}
               </span>
             </button>
-            <button>
+            <button onClick={() => navigate(App_Routes.ABOUT)}>
               <span className="hover:text-orange-500 transition cursor-pointer">
                 {t("aboutUs")}
               </span>
             </button>
-            <button>
+            <button onClick={() => navigate(App_Routes.CONTACT)}>
               <span className="hover:text-orange-500 transition cursor-pointer">
                 {t("contact")}
               </span>

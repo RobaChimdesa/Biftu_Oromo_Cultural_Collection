@@ -1,0 +1,28 @@
+{
+  "brand": {
+    "description": "Ethiopian Traditional Clothing",
+    "tagline": "Handcrafted with love and cultural heritage"
+  },
+  "quickLinks": {
+    "title": "Quick Links",
+    "home": "Home",
+    "products": "Products",
+    "aboutUs": "About Us",
+    "contact": "Contact"
+  },
+  "contact": {
+    "title": "Contact Info",
+    "address": "5th Floor, Jan Meda Dashin Bank Building, Addis Ababa, Ethiopia",
+    "phone": "+251 987 654 321",
+    "email": "info@kutacollections.com"
+  },
+  "social": {
+    "title": "Follow Us",
+    "newsletter": "Subscribe to our newsletter",
+    "emailPlaceholder": "Your email address",
+    "subscribe": "Subscribe"
+  },
+  "copyright": "All rights reserved.",
+  "madeWith": "Made with",
+  "by": "by KUTA Team"
+}

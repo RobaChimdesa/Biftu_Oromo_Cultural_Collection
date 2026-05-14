@@ -1,0 +1,19 @@
+{
+  "sectionTitle": "ለምን እኛን መምረጥ አለብዎት",
+  "fastDelivery": {
+    "title": "ፈጣን አቅርቦት",
+    "description": "በሁሉም ትዕዛዞች ላይ ነጻ አቅርቦት"
+  },
+  "securePayment": {
+    "title": "ደህንነቱ የተጠበቀ ክፍያ",
+    "description": "100% ደህንነቱ የተጠበቀ ግብይት"
+  },
+  "qualityGuarantee": {
+    "title": "ጥራት ዋስትና",
+    "description": "ትክክለኛ በእጅ የተሰሩ ምርቶች"
+  },
+  "easyReturns": {
+    "title": "ቀላል መመለሻ",
+    "description": "የ7 ቀን የመመለሻ ፖሊሲ"
+  }
+}

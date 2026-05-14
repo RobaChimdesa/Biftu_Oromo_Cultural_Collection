@@ -1,0 +1,28 @@
+{
+  "brand": {
+    "description": "Uffata Aadaa Itoophiyaa",
+    "tagline": "Jaalallaa fi dhaala aadaadhaan harkaan hojjetame"
+  },
+  "quickLinks": {
+    "title": "Geessituu Dafaa",
+    "home": "Mana",
+    "products": "Oomisha",
+    "aboutUs": "Waa'ee Keenya",
+    "contact": "Quunnamii"
+  },
+  "contact": {
+    "title": "Teessoo",
+    "address": "Kutaa 5ffaa, Jan Meda Dashin Bankii Gamoo, Finfinnee, Itoophiyaa",
+    "phone": "+251 987 654 321",
+    "email": "info@kutacollections.com"
+  },
+  "social": {
+    "title": "Nu Hordofaa",
+    "newsletter": "Oduu keenyaf galmaa'i",
+    "emailPlaceholder": "Teessoo Iimeelii keessan",
+    "subscribe": "Galmaa'i"
+  },
+  "copyright": "Mirgi hundi kan qabatanidha.",
+  "madeWith": "Kan hojjetame",
+  "by": "Kuta Team"
+}

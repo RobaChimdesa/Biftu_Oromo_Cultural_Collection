@@ -1,0 +1,28 @@
+{
+  "brand": {
+    "description": "የኢትዮጵያ ባህላዊ ልብሶች",
+    "tagline": "በፍቅር እና በባህላዊ ቅርስ የተሰራ"
+  },
+  "quickLinks": {
+    "title": "ፈጣን ሊንኮች",
+    "home": "መነሻ",
+    "products": "ምርቶች",
+    "aboutUs": "ስለ እኛ",
+    "contact": "አግኙን"
+  },
+  "contact": {
+    "title": "አድራሻ",
+    "address": "5ኛ ፎቅ ጃን መዳ ዳሽን ባንክ ህንጻ አዲስ አበባ ኢትዮጵያ",
+    "phone": "+251 987 654 321",
+    "email": "info@kutacollections.com"
+  },
+  "social": {
+    "title": "እኛን ይከተሉ",
+    "newsletter": "ለዜና መፅሄታችን ይመዝገቡ",
+    "emailPlaceholder": "ኢሜይል አድራሻዎ",
+    "subscribe": "ይመዝገቡ"
+  },
+  "copyright": "መብቱ በህግ የተጠበቀ ነው።",
+  "madeWith": "የተሰራው በ",
+  "by": "በኩታ ቡድን"
+}

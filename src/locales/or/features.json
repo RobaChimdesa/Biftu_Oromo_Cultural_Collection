@@ -1,0 +1,19 @@
+{
+  "sectionTitle": "Maaliif Nu Filachuu Qabda",
+  "fastDelivery": {
+    "title": "Dhiheessaa Cimaa",
+    "description": "Dhiheessaa bilisaa ajaja hundatti"
+  },
+  "securePayment": {
+    "title": "Kaffaltiis Waabee",
+    "description": "100% waabee taateewwan"
+  },
+  "qualityGuarantee": {
+    "title": "Mirkaneessa Qulqullinaa",
+    "description": "Oomisha harkaan hodhame dhugaa"
+  },
+  "easyReturns": {
+    "title": "Deebisuu Salphaa",
+    "description": "Seera deebisuu guyyoota 7"
+  }
+}

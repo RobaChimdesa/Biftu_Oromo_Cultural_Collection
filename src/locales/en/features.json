@@ -1,0 +1,19 @@
+{
+  "sectionTitle": "Why Choose Us",
+  "fastDelivery": {
+    "title": "Fast Delivery",
+    "description": "Free delivery on all orders"
+  },
+  "securePayment": {
+    "title": "Secure Payment",
+    "description": "100% secure transactions"
+  },
+  "qualityGuarantee": {
+    "title": "Quality Guarantee",
+    "description": "Authentic handwoven products"
+  },
+  "easyReturns": {
+    "title": "Easy Returns",
+    "description": "7-day return policy"
+  }
+}

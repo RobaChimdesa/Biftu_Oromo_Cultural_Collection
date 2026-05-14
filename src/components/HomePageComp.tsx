@@ -11,13 +11,14 @@ const HomePageComp = () => {
       desckey: "slide1.description",
       image:
         "https://res.cloudinary.com/dpc9pnok7/image/upload/v1777636984/8th_ndninh.png",
+        
     },
     {
       id: 2,
       titleKey: "slide2.title",
       desckey: "slide2.description",
       image:
-        "https://res.cloudinary.com/dpc9pnok7/image/upload/v1777637975/Screenshot_2026-05-01_151737_xpybdd.png",
+        "https://res.cloudinary.com/dpc9pnok7/image/upload/v1777636892/4th_ahjzxk.png",
     },
     {
       id: 3,
