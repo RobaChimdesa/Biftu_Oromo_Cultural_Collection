@@ -65,7 +65,7 @@ const FeaturesSection = () => {
   ];
 
   return (
-    <section ref={sectionRef} className="w-full bg-gray-50 py-16 px-4 md:px-16 overflow-hidden cursor-alias">
+    <section ref={sectionRef} className="w-full bg-gray-50 py-16 px-4 md:px-16 overflow-hidden cursor-auto">
       <div className="container mx-auto max-w-7xl">
         {/* Section Header with Animation */}
         <div className={`text-center mb-12 transition-all duration-700 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>

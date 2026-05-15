@@ -7,26 +7,26 @@ const HomeAboutCom = () => {
   const navigate = useNavigate();
 
   return (
-    <section className="py-4 px-4 md:px-16 overflow-hidden cursor-alias md:mx-4 bg-white">
+    <section className="py-4 px-4 md:px-32 overflow-hidden cursor-auto md:mx-4 bg-white">
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-2 items-center justify-between gap-0">
           {/* LEFT SIDE */}
           <div className="space-y-4">
             {/* TITLE */}
             <div className="space-y-1">
-              <h2 className="text-xl md:text-2xl font-semibold text-[#111827] leading-tight uppercase">
+              <h2 className="text-xl md:text-xl font-semibold text-[#111827] leading-tight uppercase">
                 {t('badge')}
               </h2>
 
               <div className="flex items-center gap-6">
-                <h1 className="text-xl md:text-2xl font-semibold text-orange-500">
+                <h1 className="text-xl md:text-xl font-semibold text-orange-500">
                   {t('title')}
                 </h1>
               </div>
             </div>
 
             {/* DESCRIPTION */}
-            <p className="text-gray-600 text-xl md:text-base leading-[2.2rem] max-w-2xl serif">
+            <p className="text-gray-500 text-sm md:text-sm  max-w-2xl serif">
               {t('description')}
             </p>
 

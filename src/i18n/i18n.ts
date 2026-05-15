@@ -84,6 +84,12 @@ import enHomeProductPageComp from "../locales/en/HomeProductPageCom.json";
 import amHomeProductPageComp from "../locales/am/HomeProductPageCom.json";
 import omHomeProductPageComp from "../locales/or/HomeProductPageCom.json";
 
+// PRODUCT PAGE
+
+import enProducts from "../locales/en/products.json";
+import amProducts from "../locales/am/Products.json";
+import omProducts from "../locales/or/Products.json";
+
 // ABOUT PAGE
 import enAbout from "../locales/en/about.json";
 import amAbout from "../locales/am/about.json";
@@ -99,6 +105,13 @@ import enFooter from "../locales/en/footer.json";
 import amFooter from "../locales/am/footer.json";
 import omFooter from "../locales/or/footer.json";
 
+// CONTACT PAGE
+
+import enContact from "../locales/en/contact.json"
+import amContact from "../locales/am/contact.json"
+import orContact from "../locales/or/contact.json"
+import { Contact } from "lucide-react";
+
 const resources = {
   en: {
     header: enHeader,
@@ -107,6 +120,8 @@ const resources = {
     features: enFeatures,
     footer: enFooter,
     about: enAbout,
+    products: enProducts,
+    contact:enContact,
   },
 
   am: {
@@ -116,6 +131,8 @@ const resources = {
     features: amFeatures,
     footer: amFooter,
     about: amAbout,
+    products: amProducts,
+    contact: amContact,
   },
 
   om: {
@@ -125,6 +142,8 @@ const resources = {
     features: omFeatures,
     footer: omFooter,
     about: omAbout,
+    products: omProducts,
+    contact:orContact,
   },
 };
 
@@ -152,7 +171,7 @@ i18n
 
     defaultNS: "header",
 
-    ns: [ "header", "home", "HomeProductPageCom", "features", "footer", "about"],
+    ns: [ "header", "home", "HomeProductPageCom", "features", "footer", "about", "products","contact"],
   });
 
 export default i18n;

@@ -1,0 +1,35 @@
+{
+  "title": "Contact",
+  "subtitle": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+
+  "showroom": "Visit Our Showroom",
+  "call": "Call Us",
+  "email": "Email",
+  "businessHours": "Business Hours",
+  "follow": "Follow Us",
+
+  "address": {
+    "line1": "33rd Floor, Jan Meda Dashin Bank Building,",
+    "line2": "Addis Ababa, Ethiopia"
+  },
+
+  "hours": {
+    "weekdays": "Monday - Friday: 9:00 AM - 6:00 PM",
+    "saturday": "Saturday: 10:00 AM - 4:00 PM",
+    "sunday": "Sunday: Closed"
+  },
+
+  "form": {
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "message": "Message",
+    "messagePlaceholder": "Write your message",
+    "button": "Send Message"
+  },
+
+  "mapTitle": "Find Us on Map",
+  "location": "Jan Meda Dashin Bank Building, 33rd Floor, Addis Ababa, Ethiopia",
+  "direction": "Get Directions"
+}

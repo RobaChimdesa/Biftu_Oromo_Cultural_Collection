@@ -35,7 +35,7 @@ const HomeProductComp = () => {
   };
 
   return (
-    <section className="w-full bg-[#f5f5f5] py-24 px-4 md:px-16 mx-auto cursor-alias">
+    <section className="w-full bg-[#f5f5f5] py-24 px-4 md:px-16 mx-auto cursor-auto">
       {/* SECTION TITLE */}
       <div className="flex flex-col items-center justify-center mb-14">
         <span className="text-orange-500 uppercase tracking-[6px] font-bold text-sm">

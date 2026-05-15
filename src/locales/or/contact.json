@@ -1,0 +1,35 @@
+{
+  "title": "Nu Qunnamaa",
+  "subtitle": "Gaaffii qabduu? Si irraa dhaga’uu ni barbaanna. Ergaa nuuf ergi, yeroo gabaabaa keessatti siif deebina.",
+
+  "showroom": "Bakka Agarsiisaa Keenya Daawwadhaa",
+  "call": "Bilbilaa Nuuf",
+  "email": "Imeelii",
+  "businessHours": "Sa’aatii Hojii",
+  "follow": "Nu Hordofaa",
+
+  "address": {
+    "line1": "Gamoo Dashin Baankii Jan Medaa, Fooxii 33ffaa,",
+    "line2": "Finfinnee, Itoophiyaa"
+  },
+
+  "hours": {
+    "weekdays": "Wiixata - Jimaata: 9:00 Ganama - 6:00 Galgala",
+    "saturday": "Sanbata: 10:00 Ganama - 4:00 Waaree Booda",
+    "sunday": "Dilbata: Cufaa"
+  },
+
+  "form": {
+    "name": "Maqaa",
+    "namePlaceholder": "Maqaa kee galchi",
+    "email": "Imeelii",
+    "emailPlaceholder": "Imeelii kee galchi",
+    "message": "Ergaa",
+    "messagePlaceholder": "Ergaa kee barreessi",
+    "button": "Ergaa Ergi"
+  },
+
+  "mapTitle": "Kaartaa irratti Nu Argadhaa",
+  "location": "Gamoo Dashin Baankii Jan Medaa, Darbii 33ffaa, Finfinnee, Itoophiyaa",
+  "direction": "Kallattii Argadha"
+}

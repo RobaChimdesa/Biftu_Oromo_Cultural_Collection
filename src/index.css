@@ -53,9 +53,9 @@
 /* Hide default cursor on desktop */
 @media (min-width: 769px) {
   body,
-  button,
-  a,
-  input,
+  /* button, */
+  /* a, */
+  /* input, */
   [role="button"] {
     cursor: none;
   }
