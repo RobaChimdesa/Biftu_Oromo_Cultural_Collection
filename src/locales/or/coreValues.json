@@ -1,0 +1,26 @@
+{
+  "badge": "GATIIWWAN IJOO",
+  "title": "WANTA NU OOFU",
+
+  "values": {
+    "authenticity": {
+      "title": "Dhugummaa",
+      "description": "Uffanni hundi mala hojii harkaa aadaa Oromoo fi Itoophiyaa irratti hundaa’een hojjetama."
+    },
+
+    "sustainability": {
+      "title": "Itti Fufiinsa",
+      "description": "Meeshaalee naannoo hin miine fi hojii oomishaa sirrii ta’e fayyadamna."
+    },
+
+    "community": {
+      "title": "Hawaasa",
+      "description": "Aartisaanota keessaa deeggaruun mootummaa fi mootummaa aadaa Oromoo eegsisuuf hojjenna."
+    },
+
+    "quality": {
+      "title": "Qulqullina",
+      "description": "Dizaayinii hunda keessatti hojii harkaa fi qulqullina olaanaa irratti xiyyeeffanna."
+    }
+  }
+}

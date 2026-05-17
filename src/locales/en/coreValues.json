@@ -1,0 +1,26 @@
+{
+  "badge": "CORE VALUES",
+  "title": "WHAT DRIVES US",
+
+  "values": {
+    "authenticity": {
+      "title": "Authenticity",
+      "description": "Every piece is handcrafted using traditional Oromo and Ethiopian weaving techniques."
+    },
+
+    "sustainability": {
+      "title": "Sustainability",
+      "description": "We use eco-friendly materials and ethical production practices that respect nature."
+    },
+
+    "community": {
+      "title": "Community",
+      "description": "Supporting local artisans and preserving Oromo cultural heritage for future generations."
+    },
+
+    "quality": {
+      "title": "Quality",
+      "description": "Uncompromising attention to detail and exceptional craftsmanship in every design."
+    }
+  }
+}

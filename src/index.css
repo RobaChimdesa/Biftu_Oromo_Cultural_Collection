@@ -52,7 +52,7 @@
 
 /* Hide default cursor on desktop */
 @media (min-width: 769px) {
-  body,
+  /* body, */
   /* button, */
   /* a, */
   /* input, */

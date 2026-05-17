@@ -16,7 +16,7 @@
 // import omHome from '../locales/or/home.json';
 
 // // Home Product Page
-// import enHomeProductPageComp from '../locales/en/HomeProductPageCom.json'; 
+// import enHomeProductPageComp from '../locales/en/HomeProductPageCom.json';
 // import amHomeProductPageComp from '../locales/am/HomeProductPageCom.json';
 // import omHomeProductPageComp from '../locales/or/HomeProductPageCom.json';
 // const resources = {
@@ -49,16 +49,16 @@
 //     resources,
 //     fallbackLng: 'en',
 //     debug: isDevelopment,
-    
+
 //     detection: {
 //       order: ['localStorage', 'navigator'],
 //       caches: ['localStorage'],
 //     },
-    
+
 //     interpolation: {
 //       escapeValue: false,
 //     },
-    
+
 //     defaultNS: 'homeProductPageComp', // Set default namespace to header
 //     ns: ['home', 'header', 'homeProductPageComp'], // Available namespaces
 //   });
@@ -107,10 +107,45 @@ import omFooter from "../locales/or/footer.json";
 
 // CONTACT PAGE
 
-import enContact from "../locales/en/contact.json"
-import amContact from "../locales/am/contact.json"
-import orContact from "../locales/or/contact.json"
-import { Contact } from "lucide-react";
+import enContact from "../locales/en/contact.json";
+import amContact from "../locales/am/contact.json";
+import orContact from "../locales/or/contact.json";
+
+// ourstory
+
+import enOurStory from "../locales/en/ourstory.json";
+import amOurStory from "../locales/am/ourstory.json";
+import orOurStory from "../locales/or/ourstory.json";
+
+// OurJourney
+
+import enOurJourney from "../locales/en/journey.json";
+import amOurJourney from "../locales/am/journey.json";
+import orOurJourney from "../locales/or/journey.json";
+
+// our mission and vision
+
+import enMission from "../locales/en/mission.json";
+import amMission from "../locales/am/mission.json";
+import orMission from "../locales/or/mission.json";
+
+// our core values
+
+import encorevalues from "../locales/en/coreValues.json";
+import amcorevalues from "../locales/am/coreValues.json";
+import orcorevalues from "../locales/or/coreValues.json";
+
+// Artisan page
+
+import enartisan from "../locales/en/Artisans.json";
+import amartisan from "../locales/am/Artisans.json";
+import orartisan from "../locales/or/Artisans.json";
+ 
+// join us page
+
+import enjoinus from "../locales/en/joinJourney.json"
+import amjoinus from "../locales/am/joinJourney.json"
+import orjoinus from "../locales/or/joinJourney.json"
 
 const resources = {
   en: {
@@ -121,7 +156,13 @@ const resources = {
     footer: enFooter,
     about: enAbout,
     products: enProducts,
-    contact:enContact,
+    contact: enContact,
+    ourstory: enOurStory,
+    ourjourny: enOurJourney,
+    mission: enMission,
+    corevalues: encorevalues,
+    artisan: enartisan,
+    joinus:enjoinus
   },
 
   am: {
@@ -133,6 +174,12 @@ const resources = {
     about: amAbout,
     products: amProducts,
     contact: amContact,
+    ourstory: amOurStory,
+    ourjourny: amOurJourney,
+    mission: amMission,
+    corevalues: amcorevalues,
+    artisan: amartisan,
+    joinus:amjoinus
   },
 
   om: {
@@ -143,7 +190,13 @@ const resources = {
     footer: omFooter,
     about: omAbout,
     products: omProducts,
-    contact:orContact,
+    contact: orContact,
+    ourstory: orOurStory,
+    ourjourny: orOurJourney,
+    mission: orMission,
+    corevalues: orcorevalues,
+    artisan: orartisan,
+    joinus:orjoinus
   },
 };
 
@@ -171,7 +224,21 @@ i18n
 
     defaultNS: "header",
 
-    ns: [ "header", "home", "HomeProductPageCom", "features", "footer", "about", "products","contact"],
+    ns: [
+      "header",
+      "home",
+      "HomeProductPageCom",
+      "features",
+      "footer",
+      "about",
+      "products",
+      "contact",
+      "ourstory",
+      "mission",
+      "corevalues",
+      "artisan",
+      "joinus"
+    ],
   });
 
 export default i18n;
