@@ -1,5 +1,3 @@
-import Header from "../../module/common/Header";
-import Footer from "../../module/common/Footer";
 import { useTranslation } from "react-i18next";
 import {
   FaFacebookF,

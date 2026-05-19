@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import { FaBullseye, FaEye } from "react-icons/fa";
 
 const MissionVisionPage = () => {
   const { t } = useTranslation("mission");
