@@ -21,8 +21,8 @@ import omHomeProductPageComp from "../locales/or/HomeProductPageCom.json";
 // PRODUCT PAGE
 
 import enProducts from "../locales/en/products.json";
-import amProducts from "../locales/am/Products.json";
-import omProducts from "../locales/or/Products.json";
+import amProducts from "../locales/am/products.json";
+import omProducts from "../locales/or/products.json";
 
 // ABOUT PAGE
 import enAbout from "../locales/en/about.json";
